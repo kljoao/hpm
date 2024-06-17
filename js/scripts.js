@@ -91,7 +91,7 @@ window.addEventListener('DOMContentLoaded', event => {
 $('#number1').jQuerySimpleCounter({end: 200,duration: 2000});
 $('#number2').jQuerySimpleCounter({end: 55,duration: 1400});
 $('#number3').jQuerySimpleCounter({end: 359,duration: 2400});
-$('#number4').jQuerySimpleCounter({end: 246,duration: 2000});
+$('#number4').jQuerySimpleCounter({end: 100,duration: 2000});
 
 
 
