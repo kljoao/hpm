@@ -138,3 +138,14 @@
 .counts{
     margin-bottom: 50px;
 }
+
+.detalhe{
+    display: block;
+    content: ' ';
+    width: 5px;
+    height: 50px;
+    background-color: #FE7400;
+    position: absolute;
+    left: 50%;
+    margin-top: -25px;
+}
