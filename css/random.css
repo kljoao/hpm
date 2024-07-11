@@ -54,6 +54,23 @@
     color: #000000;
 }
 
+.orange-normal-30{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #f4623a;
+}
+
+.orange-normal-40{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #f4623a;
+}
+
+.font-alter{
+    font-weight: 300;
+    color: #717171 !important;
+}
+
 .black-normal-40{
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
@@ -83,4 +100,41 @@
     font-size: 15px;
     font-weight: 300;
     color: #000000;
+}
+
+/*--------------------------------------------------------------
+# About
+--------------------------------------------------------------*/
+
+.about{
+    margin: 100px;
+}
+
+.about .content h3 {
+    font-weight: 700;
+    font-size: 32px;
+    color: #5f687b;
+  }
+  
+  .about .content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .about .content ul li {
+    padding-bottom: 10px;
+  }
+  
+  .about .content ul i {
+    font-size: 20px;
+    padding-right: 4px;
+    color: #16df7e;
+  }
+  
+  .about .content p:last-child {
+    margin-bottom: 0;
+  }
+  
+.counts{
+    margin-bottom: 50px;
 }
